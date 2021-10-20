@@ -1,0 +1,76 @@
+.nav {
+    background-color: white;
+    text-align: center;
+
+}
+
+.img{
+padding: 250px 300px 250px 300px;
+width: 10%;
+height: 10%;
+}
+
+.nav a{
+  display : block;
+  margin: 10px;
+  padding:14px 16px;
+}
+
+.top{
+  background-color: red;
+  text-align: center;
+}
+.purple{
+  background-color: purple;
+}
+.bottom{
+  background-color: red;
+    text-align: center;
+}
+
+h1{
+  color: white;
+  font-size: 100px;
+  text-align: center;
+}
+h2{
+  padding: 250px 300px 250px 300px;
+  color: pink;
+  font-size: 50px;
+  text-align: center;
+}
+.p2{
+  padding: 250px 300px 250px 300px;
+  color: orange;
+  font-family: Helvetica;
+  text-align: center;
+}
+p{
+  padding: 250px 300px 250px 300px;
+  color: #b51492;
+  font-family: Helvetica;
+  font-size: 20px;
+  text-align: center;
+  font-style: italic;
+  /*font-weight: 800;*/
+}
+
+.buyme{
+  display: block;
+height:50%;
+width : 150%;
+Color: blue;
+background-color: white;
+font-size: 50px;
+text-align: center;
+border: 1px;
+}
+
+/* Making all of body green */
+body{
+  border: 30px solid purple;
+  margin: 250px 300px 250px 300px;
+  padding: 250px 300px 250px 300px;
+  background-color:green;
+  background-image: url("trash.png")
+ }
